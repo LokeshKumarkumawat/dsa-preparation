@@ -1,0 +1,4 @@
+c++ cmd run
+
+PS F:\dsa preparation\Heap> g++ hello.cpp -o HelloWorld.exe 
+PS F:\dsa preparation\Heap> .\HelloWorld.exe
